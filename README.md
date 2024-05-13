@@ -66,8 +66,7 @@ VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 ### START
 
 
-1 : execute : `composer install`
-2 : Duplicate the .env.example file and rename it to .env.
-Configure your database (DB_DATABASE, DB_USERNAME, DB_PASSWORD, etc.) in the .env file.
-3 : Run the `php artisan key:generate` command to generate a unique application key.
-4 : Run the `php artisan serve` command to start the Laravel development server. This will launch the server at http://localhost:8000 by default.
+1 : execute : `composer install`  <br>
+2 : Duplicate the .env.example file and rename it to .env.   <br>. Configure your database (DB_DATABASE, DB_USERNAME, DB_PASSWORD, etc.) in the .env file.  <br>
+3 : Run the `php artisan key:generate` command to generate a unique application key.  <br>
+4 : Run the `php artisan serve` command to start the Laravel development server. This will launch the server at http://localhost:8000 by default.  <br>
