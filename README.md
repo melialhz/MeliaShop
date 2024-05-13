@@ -1,8 +1,9 @@
 <h1 align="center"> MeliaShop </h1> <br>
 
 
-###env file : 
-`APP_NAME=Laravel
+### my env file : 
+`
+APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:zVrZ1I2s4qhNZFkvLJGXFPH21qeSpZxI6Cze7fCK76Y=
 APP_DEBUG=true
@@ -59,9 +60,12 @@ VITE_PUSHER_APP_KEY="${PUSHER_APP_KEY}"
 VITE_PUSHER_HOST="${PUSHER_HOST}"
 VITE_PUSHER_PORT="${PUSHER_PORT}"
 VITE_PUSHER_SCHEME="${PUSHER_SCHEME}"
-VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}" `
+VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}" 
+`
 
-###START
+### START
+
+
 1 : execute : `composer install`
 2 : Duplicate the .env.example file and rename it to .env.
 Configure your database (DB_DATABASE, DB_USERNAME, DB_PASSWORD, etc.) in the .env file.
