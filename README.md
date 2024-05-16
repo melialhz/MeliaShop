@@ -4,22 +4,22 @@
 
 ### Features
 
--Ajout, édition et suppression de produits
--Affichage des détails des produits
--Création, édition et suppression de catégories
--Affichage des produits par catégorie
--Panier d'Achat
--Ajout et mise à jour des produits dans le panier
--Suppression de produits du panier
--Calcul des frais de livraison et des taxes
--Confirmation de la commande
--Gestion des Utilisateurs
--Inscription, connexion et gestion du profil utilisateur
--Recherche et Filtrage(Filtrage par prix, catégorie, popularité, etc.)
--Suivi de l'état des commandes pour les administrateurs
--page Paiements
--Avis et évaluations des produits par les clients
--Promotions et Réductions
+-Ajout, édition et suppression de produits <br>
+-Affichage des détails des produits <br>
+-Création, édition et suppression de catégories <br>
+-Affichage des produits par catégorie <br>
+-Panier d'Achat <br>
+-Ajout et mise à jour des produits dans le panier <br>
+-Suppression de produits du panier <br>
+-Calcul des frais de livraison et des taxes<br>
+-Confirmation de la commande<br>
+-Gestion des Utilisateurs<br>
+-Inscription, connexion et gestion du profil utilisateur<br>
+-Recherche et Filtrage(Filtrage par prix, catégorie, popularité, etc.)<br>
+-Suivi de l'état des commandes pour les administrateurs<br>
+-page Paiements<br>
+-Avis et évaluations des produits par les clients<br>
+-Promotions et Réductions<br>
 
 ## Prerequisites for installation 🛠️
 
