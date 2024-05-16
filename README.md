@@ -2,6 +2,16 @@
 
 <h1 align="center"> MeliaShop </h1> <br>
 
+![Capture d'écran de l'application](public/images/screen1.png)
+![Capture d'écran de l'application](public/images/screen2.png)
+
+![Capture d'écran de l'application](public/images/screen3.png)
+
+![Capture d'écran de l'application](public/images/screen4.png)
+
+![Capture d'écran de l'application](public/images/screen6.png)
+![Capture d'écran de l'application](public/images/screen15.png)
+
 ### Features
 
 -Ajout, édition et suppression de produits <br>
